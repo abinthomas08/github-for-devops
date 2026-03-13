@@ -30,3 +30,24 @@ to remove from staging  command is git rm --cache
 
 git commit -m "" 
 after teh file it's 
+
+
+
+git restore filename to restore the file 
+
+
+file is not tracking in staging 
+
+
+git init - intitilize an empty git repository 
+
+git status - 
+
+git add   untracked to staging 
+
+git commit -m   stage to tracking 
+
+git  restore  restore the deleted files 
+git remote -v
+
+git push oring main or master
