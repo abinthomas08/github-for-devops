@@ -60,3 +60,11 @@ git branch dev it will create a branch called dev and then we can
 
 
 git swithc master
+
+main code is in master 
+stage is testing happening 
+
+development is happening inside teh dev branch and  where the developer and devops engineers pushes their code 
+
+
+
