@@ -51,3 +51,12 @@ git  restore  restore the deleted files
 git remote -v
 
 git push oring main or master
+
+
+branching we can create copies of the master branch 
+
+
+git branch dev it will create a branch called dev and then we can 
+
+
+git swithc master
