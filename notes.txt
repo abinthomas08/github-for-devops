@@ -69,3 +69,5 @@ development is happening inside teh dev branch and  where the developer and devo
 
 
 HEAD represents the lastest commit on your repository
+
+git check master  is same as git switch master
