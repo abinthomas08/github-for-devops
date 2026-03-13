@@ -1,0 +1,23 @@
+ 1225  git status 
+ 1226  rm test.py 
+ 1227  ls 
+ 1228  git status
+ 1229  git restore test.py 
+ 1230  git status 
+ 1231  ls 
+ 1232  git commit -m " added testing file and note" 
+ 1233  git config --globa user.email "abintmukalath@gmail.com"
+ 1234  git config --global user.email "abintmukalath@gmail.com"
+ 1235  git config --global user.name "Abin Thomas"
+ 1236  git commit -m " added testing file and note" 
+ 1237  git status 
+ 1238  rm test.py 
+ 1239  git status 
+ 1240  clear
+ 1241  git status 
+ 1242  git restore test.py
+ 1243  clear
+ 1244  clear 
+ 1245  ls 
+ 1246  clear
+ 1247  history

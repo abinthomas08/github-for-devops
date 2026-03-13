@@ -1,1 +1,32 @@
 what's the difference between file system vs version control system ? 
+
+it's really difficult to recover teh deleted files but in vcs you can recover or roll back to the previous vcs
+
+
+to create vcs we have to  type git init 
+it will createa  vcs in the current directory 
+
+
+in vcs you have an option to recover and roll back 
+
+
+
+
+git init 
+it a basic commannd to initilize empty git repository 
+
+untracked - when file is in your system it's untracked 
+
+
+ tracked  and in version control system your file is tracked 
+
+  
+
+stage 
+-----
+to add in stagng git add filename 
+
+to remove from staging  command is git rm --cache 
+
+git commit -m "" 
+after teh file it's 
